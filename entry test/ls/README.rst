@@ -31,7 +31,7 @@ Full information format:
     * Last modified date and time.
     * File`s name.
 
-*Total is the number of a total used blocks, size of a block = 1024 bytes.
+*Total is the number of the total used blocks, size of a block = 1024 bytes.
 
 This format correspond to ls`s one. 
 Size of folder is calculated as the summary size of all files inside this folder. For nested folder`s the size is calculated recursively.
