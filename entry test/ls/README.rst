@@ -2,8 +2,8 @@
 This program is an analog for the ls console command. It is made for GlobalLogic C/Embedded BaseCamp Entry Test.
 
 It supports 2 flags:
-    -l -- print full information.
-    -a -- print all files.
+    * -l -- print full information.
+    * -a -- print all files.
     
 Separate flags indication is supported. 
 The last argument is a file path. If the file path is not indicated, current working directory`s is used instead.
